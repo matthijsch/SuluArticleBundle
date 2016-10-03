@@ -1,6 +1,6 @@
 {
-    "name": "sulu/article-bundle",
-    "description": "Sulu Bundle for managing articles",
+    "name": "matthijsch/sulu-article-bundle",
+    "description": "Connect Holland Bundle for managing articles",
     "type": "sulu-bundle",
     "license": "MIT",
     "require": {
@@ -20,12 +20,6 @@
     },
     "keywords": [
         "articles"
-    ],
-    "authors": [
-        {
-            "name": "Sulu Article",
-            "homepage": "https://github.com/sulu/SuluArticleBundle/contributors"
-        }
     ],
     "homepage": "https://github.com/sulu/SuluArticleBundle",
     "autoload": {
